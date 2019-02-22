@@ -1,2 +1,3 @@
 BEGIN COMMENT
-    END COMMENT
+old parameter
+END COMMENT
