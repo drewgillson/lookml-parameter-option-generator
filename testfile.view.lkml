@@ -2,16 +2,284 @@ parameter: item_to_add_up {
   type: unquoted
   # BEGIN AUTO-GENERATED PARAMETER VALUES
   allowed_value: {
-    label: "Total Sale Price"
-    value: "sale_price"
+    label: "create_query"
+    value: "create_query"
   }
   allowed_value: {
-    label: "Total Cost"
-    value: "cost"
+    label: "create_query"
+    value: "create_query"
   }
   allowed_value: {
-    label: "Total Profit"
-    value: "profit"
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "create_query"
   }
   # END AUTO-GENERATED PARAMETER VALUES
 }
