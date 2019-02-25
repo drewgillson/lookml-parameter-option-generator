@@ -1,17 +1,11 @@
-parameter: item_to_add_up {
-  type: unquoted
-  # BEGIN AUTO-GENERATED PARAMETER VALUES
-  allowed_value: {
-    label: "Total Sale Price"
-    value: "sale_price"
-  }
-  allowed_value: {
-    label: "Total Cost"
-    value: "cost"
-  }
-  allowed_value: {
-    label: "Total Profit"
-    value: "profit"
-  }
-  # END AUTO-GENERATED PARAMETER VALUES
-}
+BEGIN AUTO-GENERATED PARAMETER VALUES
+cGFyYW1ldGVyOiBpdGVtX3RvX2FkZF91cCB7CiAgdHlwZTogdW5xdW90ZWQK
+ICAjIEJFR0lOIEFVVE8tR0VORVJBVEVEIFBBUkFNRVRFUiBWQUxVRVMKICBh
+bGxvd2VkX3ZhbHVlOiB7CiAgICBsYWJlbDogIlRvdGFsIFNhbGUgUHJpY2Ui
+CiAgICB2YWx1ZTogInNhbGVfcHJpY2UiCiAgfQogIGFsbG93ZWRfdmFsdWU6
+IHsKICAgIGxhYmVsOiAiVG90YWwgQ29zdCIKICAgIHZhbHVlOiAiY29zdCIK
+ICB9CiAgYWxsb3dlZF92YWx1ZTogewogICAgbGFiZWw6ICJUb3RhbCBQcm9m
+aXQiCiAgICB2YWx1ZTogInByb2ZpdCIKICB9CiAgIyBFTkQgQVVUTy1HRU5F
+UkFURUQgUEFSQU1FVEVSIFZBTFVFUwp9Cg==
+
+END AUTO-GENERATED PARAMETER VALUES
