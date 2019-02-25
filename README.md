@@ -13,3 +13,12 @@ This script demonstrates how to use a scheduled look to provide parameter option
 7. Click 'Send Test' to make a request to your Google Cloud Function immediately
 8. Get function execution logs with `gcloud`
     > `gcloud functions logs read`
+
+## How will I know this works?
+The expected outcome from this example is that if a new row is included in the results from your scheduled look, the file containing your LookML parameter definition will have a new option for the parameter. For example, if the look results included a new row with _Seventy Seven_ in the "Event Name" field and _77_ in the "Event ID" field, the following option will be automatically added to your parameter definition within a few minutes:
+```
+allowed_value: {
+  label: "Fifty Six"
+  value: "56"
+}
+```
