@@ -2,7 +2,7 @@
 This script demonstrates how to use a scheduled look to provide parameter option values to a Google Cloud Function, which will automatically maintain corresponding parameter option values specified in a LookML file.
 
 ## Step-by-step
-1. In a file in your LookML project, annotate the parameter options you want to maintain automatically by inserting a `# BEGIN AUTO-GENERATED PARAMETER VALUES` comment immediately before the parameter values and an `# END AUTO-GENERATED PARAMETER VALUES` comment immediately afterwards. See [testfile.view.lkml](testfile.view.lkml) for an example.
+1. In a file in your LookML project, annotate the parameter options you want to maintain automatically by inserting a `# BEGIN AUTO-GENERATED PARAMETER VALUES` comment immediately before the parameter option values and an `# END AUTO-GENERATED PARAMETER VALUES` comment immediately afterwards. See [testfile.view.lkml](testfile.view.lkml) for an example.
 2. Save a look that returns two columns containing the data you want to use for parameter option labels and values. In this example, the look contains two columns, "Event Name" and "Event ID". 
 3. Clone this repository and set your own parameter values in [env.yaml](env.yaml). You will need a Github API token that has permission to make changes to the repository containing your LookML files, and the Outgoing Webhook Token from your Looker instance.
 4. Create a GCP project and configure the gcloud command line utility by following the [Quickstart instructions](https://cloud.google.com/functions/docs/quickstart) 
