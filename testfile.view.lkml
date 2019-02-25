@@ -1,7 +1,5 @@
 BEGIN AUTO-GENERATED PARAMETER VALUES
-parameter: item_to_add_up {
-  type: unquoted
-  # allowed_value: {
+allowed_value: {
     label: "create_query"
     value: "create_query"
 }
@@ -268,8 +266,6 @@ allowed_value: {
 allowed_value: {
     label: "create_query"
     value: "create_query"
-}
-
 }
 
 END AUTO-GENERATED PARAMETER VALUES
