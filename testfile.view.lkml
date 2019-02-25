@@ -281,5 +281,73 @@ parameter: item_to_add_up {
     label: "create_query"
     value: "1614"
   }
+  allowed_value: {
+    label: "create_query"
+    value: "1623"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1625"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1626"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1627"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1643"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1644"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1649"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1650"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1651"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1652"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1654"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1655"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1656"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1684"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1685"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1686"
+  }
+  allowed_value: {
+    label: "create_query"
+    value: "1687"
+  }
   # END AUTO-GENERATED PARAMETER VALUES
 }
