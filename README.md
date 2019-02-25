@@ -8,8 +8,8 @@ This script demonstrates how to use a scheduled look to provide parameter option
 4. Create a GCP project and configure the gcloud command line utility by following the [Quickstart instructions](https://cloud.google.com/functions/docs/quickstart) 
 5. Deploy the function with `gcloud`
     > `gcloud functions deploy lookml_parameter_option_generator --runtime python37 --trigger-http --env-vars-file env.yaml`
-6. Schedule your previously saved look to provide results via webhook every five minutes, and only if the results have changed. Select "Webhook" in the "Where should this data go?" section of the Schedule Events modal, then enter the URL for your Google Cloud Function.
-    > Example: https://us-central1-maintain-lookml-parameter.cloudfunctions.net/lookml_parameter_option_generator?filename=testfile&project_id=looker (replace `testfile` with the LookML filename that contains the parameter you want to maintain automatically, and replace `looker` with a project_id specified in your env.yaml file)
+6. Schedule your previously saved look to provide results via webhook every five minutes, and only if the results have changed. Select "Webhook" in the "Where should this data go?" section of the Schedule Events modal, then enter the URL for your Google Cloud Function. Choose "JSON - Simple" in the "Format data as" section.
+    > Example Webhook URL: https://us-central1-maintain-lookml-parameter.cloudfunctions.net/lookml_parameter_option_generator?filename=testfile&project_id=looker (replace `testfile` with the LookML filename that contains the parameter you want to maintain automatically, and replace `looker` with a project_id specified in your env.yaml file)
 7. Click 'Send Test' to make a request to the Google Cloud Function immediately
 8. Get function execution logs with `gcloud`
     > `gcloud functions logs read`
