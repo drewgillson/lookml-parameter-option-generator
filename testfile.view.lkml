@@ -1,2 +1,2 @@
 change
-b'parameter: item_to_add_up {\n  type: unquoted\n  # BEGIN AUTO-GENERATED PARAMETER VALUES\n  allowed_value: {\n    label: "Total Sale Price"\n    value: "sale_price"\n  }\n  allowed_value: {\n    label: "Total Cost"\n    value: "cost"\n  }\n  allowed_value: {\n    label: "Total Profit"\n    value: "profit"\n  }\n  # END AUTO-GENERATED PARAMETER VALUES\n}\n'
+b'change\nb\'parameter: item_to_add_up {\\n  type: unquoted\\n  # BEGIN AUTO-GENERATED PARAMETER VALUES\\n  allowed_value: {\\n    label: "Total Sale Price"\\n    value: "sale_price"\\n  }\\n  allowed_value: {\\n    label: "Total Cost"\\n    value: "cost"\\n  }\\n  allowed_value: {\\n    label: "Total Profit"\\n    value: "profit"\\n  }\\n  # END AUTO-GENERATED PARAMETER VALUES\\n}\\n\''
